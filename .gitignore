@@ -1,0 +1,5 @@
+.exercism
+
+# Python track
+__pycache__
+.pytest_cache
